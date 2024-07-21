@@ -11,7 +11,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ![Customers](https://github.com/Kanakgiri/Credit-Card-Weekly-Status-Report/assets/171118310/39adeb46-99a4-483f-81c2-3a2f31e52e36)
 
 
-## SQL Queries
+## SQL Queries 
 ``` -- SQL Query to create and import data from csv files:
 
 -- 0. Create a database 
